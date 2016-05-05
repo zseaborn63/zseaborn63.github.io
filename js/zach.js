@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    $('#profile_pic').fadeIn('slow')
+    $('#profile_pic').fadeIn('slow');
 });
