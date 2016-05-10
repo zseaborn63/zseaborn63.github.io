@@ -5,5 +5,5 @@ if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c
 
 
 $(document).ready(function() {
-    $('img').fadeIn('slow');
+    $('img').fadeIn('slow', 1);
 });
